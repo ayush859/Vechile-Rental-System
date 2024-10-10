@@ -64,4 +64,4 @@ This project aims to simplify the vehicle rental process, offering users a hassl
 
 ### 6. User Profile
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb374438-dc77-490e-9794-7949b871d785" alt="MY PROFILE(USER)" wid
+  <img src="https://github.com/user-attachments/assets/cb374438-dc77-490e-9794-7949b871d785" alt="MY PROFILE(USER)" width="600">
